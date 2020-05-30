@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flatplanet/Intro-to-Node.git"
+    "url": "git+https://github.com/islandman/intro-to-node.git"
   },
-  "author": "John Elder",
+  "author": "Calvin James",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/flatplanet/Intro-to-Node/issues"
+    "url": "https://github.com/islandman/intro-to-node/issues"
   },
-  "homepage": "https://github.com/flatplanet/Intro-to-Node#readme"
+  "homepage": "https://github.com/islandman/intro-to-node#readme"
 }
